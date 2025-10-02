@@ -31,7 +31,7 @@ Make sure you have **Node.js** and **npm** installed.
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Kanban-Task-Management.git
+git clone https://github.com/Gayathripj02/Kanban-Task-Management.git
 
 # Navigate to project directory
 cd Kanban-Task-Management
